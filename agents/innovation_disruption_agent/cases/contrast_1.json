@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large language models (generative AI for text)",
+  "intended_application": "Ambient clinical documentation: drafting visit notes from recorded doctor-patient conversations for physician review",
+  "organization": "National medical scribe and transcription services company (~1,500 human scribes and transcriptionists)",
+  "industry_sector": "Healthcare business services; HIPAA business associate",
+  "business_need": "Clients are trialling ambient AI documentation tools that could replace contracted human scribes; management must decide how the company's service offering responds",
+  "users_stakeholders": "Hospital and clinic clients, physicians, scribe workforce, sales team, investors, compliance",
+  "adoption_posture": "Moderate / fast-follower",
+  "capabilities_constraints": "Strong client relationships and workflow knowledge; large trained workforce; limited software engineering and no ML team; margins depend on scribe labour utilisation",
+  "risk_consequence_context": "High business consequence: core revenue is billed per scribe-hour or per note; documentation errors carry clinical and contractual liability",
+  "management_question": "Should the company build, partner for, or resell ambient AI documentation, and how should its human-scribe service be repositioned?",
+  "time_horizon": "Strategy decision in 6 months; impact over 1-3 years",
+  "additional_context": "Business model: revenue comes from multi-year service contracts priced per scribe-hour or per transcribed note; the company's advantage is a trained workforce and integration into client documentation workflows."
+}
